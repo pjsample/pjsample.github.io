@@ -1,5 +1,14 @@
-# pjsample.github.io
+# Paul Sample
 
+<p align="center">
+  <img src="img/paul1.jpg" style="width:20%">
+</p>
+
+### About
+Computational biologist with a deep interest in generative models for gene regulation, synthetic biology, and understanding the wonders of the genome.  
+
+[![CV](https://img.icons8.com/external-edtim-outline-edtim/50/external-cv-hr-edtim-outline-edtim-2.png)](resources/Paul%20Sample%202023.pdf)[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/paul_sample_)[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/pjsample)[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/paul-sample-211404149/)
+  
 ### Publications
 **Human 5′ UTR Design and Variant Effect Prediction from a Massively Parallel Translation Assay**  
 **Paul J Sample**, Ban Wang, David W Reid, Vlad Presnyak, Iain J McFadyen, David R Morris, Georg Seelig  
@@ -17,7 +26,7 @@ Jeeyun Lee, Hee C Kim, Seung Tae Kim, Yupeng He, **Paul J Sample**, Yoshiaki Nak
 Oscar Westesson, Haley Axelrod, Jason Dean, Yupeng He, **Paul Sample**, Elena Zotenko, Ruth McCole, Mohit Goel, Charbel Eid, Jessica Kurata, et al.  
 *AACR, 2020*
 
-**S130 Multimodal Circulating Tumor DNA (ctDNA) Blood-Based Colorectal Cancer (CRC) Screening Test Demonstrates Clinically Meaningful Sensitivity Across Multiple Clinical Parameters**  
+**Multimodal Circulating Tumor DNA (ctDNA) Blood-Based Colorectal Cancer (CRC) Screening Test Demonstrates Clinically Meaningful Sensitivity Across Multiple Clinical Parameters**  
 Hee Cheol Kim, Seung Tae Kim, Yupeng He, **Paul J Sample**, Victoria Raymond, Ariel Jaimovich, AmirAli Talasaz, Jeeyun Lee  
 *Official journal of the American College of Gastroenterology, 2021*
 
