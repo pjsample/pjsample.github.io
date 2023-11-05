@@ -7,7 +7,8 @@
 ### About
 Computational biologist with a deep interest in generative models for gene regulation, synthetic biology, and understanding the wonders of the genome.  
 
-[![CV](https://img.icons8.com/external-edtim-outline-edtim/50/external-cv-hr-edtim-outline-edtim-2.png)](resources/Paul%20Sample%202023.pdf)[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/paul_sample_)[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/pjsample)[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/paul-sample-211404149/)
+[![CV](https://img.icons8.com/external-edtim-outline-edtim/50/external-cv-hr-edtim-outline-edtim-2.png)](resources/Paul%20Sample%202023.pdf)[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/paul_sample_)[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/pjsample)[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/paul-sample-211404149/)  
+<pjsample [at] gmail [dot] com>
   
 ### Publications
 **Human 5′ UTR Design and Variant Effect Prediction from a Massively Parallel Translation Assay**  
