@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/paul1.jpg" style="width:20%">
+  <img src="img/paul1.jpg" style="width:25%">
 </p>
 
 ### Paul Sample
